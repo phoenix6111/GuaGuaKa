@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="GuaGuaKa">
+        <attr name="guaguaka_textcolor" format="color"/><!--中奖信息文字颜色-->
+        <attr name="guaguaka_textsize" format="dimension"/><!--中奖信息文字大小-->
+        <attr name="guaguaka_color" format="color"/> <!--刮刮卡外层颜色-->
+        <attr name="guaguaka_img" format="reference"/><!--自定义刮刮卡的图片-->
+        <attr name="guaguaka_pen_size" format="dimension"/><!--刮的时候画笔的宽度-->
+    </declare-styleable>
+
+</resources>
